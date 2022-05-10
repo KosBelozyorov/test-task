@@ -24,7 +24,8 @@
   "rules": {
     "no-console": 1,
     "linebreak-style": ["error", "unix"],
-    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "devDependencies": true
   },
   "globals": {
     "window": true,
